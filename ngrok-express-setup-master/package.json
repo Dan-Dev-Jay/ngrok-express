@@ -1,0 +1,23 @@
+{
+  "name": "ngrok-express-setup",
+  "version": "1.0.0",
+  "description": "Exposing local Express.js server to the internet via ngrok",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/labeebmaqsood133/ngrok-express-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/labeebmaqsood133/ngrok-express-setup/issues"
+  },
+  "homepage": "https://github.com/labeebmaqsood133/ngrok-express-setup#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
